@@ -36,3 +36,13 @@ I would also inspect the confusion matrix to see which mistakes are most common,
 This classifier is genuinely useful if it is consistently better than a naive baseline and can support lightweight community triage without constant manual correction. A good target would be strong macro-F1, with precision and recall both high enough that most predictions are trustworthy in practice rather than only impressive on paper.
 
 For deployment in a real community tool, I would accept performance that is good enough to reduce manual sorting work, not necessarily perfect. In concrete terms, I would want the model to be reliable on clear examples, reasonably calibrated on borderline ones, and accurate enough that moderators or community managers could use it as a first-pass filter without having to second-guess most outputs. If it still makes frequent confusion errors on the edge cases, I would treat it as a drafting aid rather than a production classifier.
+
+## AI Tool Plan
+### Label stress-testing
+I will give an AI tool my label definitions and my edge-case rules, then ask it to generate 5 to 10 synthetic posts that sit right on the boundary between Insight and Vent. The goal is to see whether the definitions are actually sharp enough to separate borderline examples. If the AI generates posts that I cannot classify cleanly, I will tighten the label descriptions before I annotate the full set of 200 examples.
+
+### Annotation assistance
+I may use an LLM to pre-label a batch of examples before I review them myself, but only as a draft aid. If I do, I will record which examples were pre-labeled and which tool produced the draft labels so I can disclose that clearly in the AI usage section. I will still make the final annotation decision manually and will not treat the pre-label as ground truth.
+
+### Failure analysis
+After evaluation, I will give the AI tool my list of incorrect predictions and ask it to identify recurring patterns in the mistakes, such as confusion between emotional evidence-based posts and true vents. I will use those suggestions as hypotheses, then verify them myself by checking the original posts and the confusion matrix before I write the final analysis. That way, the AI can help surface patterns, but I am still responsible for confirming them.
