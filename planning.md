@@ -1,0 +1,16 @@
+# Labels 
+
+## 1. Insight: posts that fall under this label provide a specific claim about the game (whether it is about agent balance, mechanics, or strategy) and back it up with evidence, statistics, or observation. 
+* Example 1: [Valorant rank distribution is kind of wild when you actually look at it:](https://www.reddit.com/r/VALORANT/comments/1ud90uy/valorant_rank_distribution_is_kind_of_wild_when/) This user notes the percentages of players in the different ranks of Valorant. They note that while most people feel frustrated staying in the same rank, being in the "Gold" rank alone makes you better than average. 
+* Example 2: [If Killjoy becomes Meta, Veto is the perfect counter:](https://www.reddit.com/r/VALORANT/comments/1udivdo/if_killjoy_becomes_meta_veto_is_the_perfect/) This user provides three distinct points as to why the character Veto would be a great counter to the character Killjoy, citing their specific abilities and characteristics.  
+* Uncertain example: [Add Chamber Headhunter to Deathmatch!](https://www.reddit.com/r/VALORANT/comments/1ucwfjr/add_chamber_headhunter_to_deathmatch/): This user suggests adding one of the character's (Chamber) weapons (Headhunter) as a permanent weapon in the Deathmatch gamemode. I labeled this as an uncertain example because while they do mention a specific reason, a lot of it is based on their personal experience as someone who plays Chamber a lot. 
+
+## 2. Vent: posts that fall under this label express frustration or anger, typically as a complaint about teammates, matchmaking, or the game mechanics in general, without providing a specific argument. 
+* Example 1: [Miks seems like the most lazy agent ever, Riot is truly running out of ideas:](https://www.reddit.com/r/VALORANT/comments/1uasnm6/miks_seems_like_the_most_lazy_agent_ever_riot_is/) This user vents about a new agent (Miks) having abilities that are essentially repeats of previous agents' abilities, accusing the developers of putting in minimal effort. 
+* Example 2: [The Whiplash in Diamond elo is insane:](https://www.reddit.com/r/VALORANT/comments/1uaiqd3/the_whiplash_in_diamond_elo_is_insane/) This user expresses frustrations about the Valorant MMR system, sayingn that games are not consistent at all. 
+* Uncertain example: [Just to air frustrations, look at my W/L gains and losses. These past 2-3 acts have been incredibly annoying to climb](https://www.reddit.com/r/VALORANT/comments/1ucv3n1/just_to_air_frustrations_look_at_my_wl_gains_and/): In this post, the user vents about having difficulty climbing ranks due to the fact that losses are punished more than wins are celebrated. They give photo evidence of their match history, however, this post could still be classified a vent due to their frustrated language. 
+
+
+
+# Community
+r/VALORANT is a general discussion subreddit for Riot's tactical shooter, where posts range from competitive analysis and patch reactions to gameplay clips and ranked frustrations. The two labels, "Insight" and "Vent", capture the dominant modes of discourse: whether a post is making a reasoned argument or expressing emotional frustration. These distinctions matter because the community itself frequently debates what belongs on the subreddit versus r/ValorantCompetitive, making discourse quality a live, contested issue that players already have strong intuitions about.
